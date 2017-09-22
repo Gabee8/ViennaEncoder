@@ -1,0 +1,405 @@
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe.config
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.pdb
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Form1.resources
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.exe
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.pdb
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\bin\Debug\System.Windows.Forms.Ribbon35.dll
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\bin\Debug\ShadowPanel.dll
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\bin\Debug\HtmlRenderer.dll
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\bin\Debug\HtmlRenderer.WinForms.dll
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\bin\Debug\LibImages.dll
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\bin\Debug\LibMplayerCommon.dll
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\bin\Debug\Windows7ToolStripRenderer.dll
+c:\users\acer\documents\visual studio 2010\Projects\ViennaEncoder\ViennaEncoder\bin\Debug\WindowsFormsAero.dll
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\ViennaEncoder\ViennaEncoder\bin\Debug\ObjectListView.dll
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe.config
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.exe
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.pdb
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.pdb
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\HtmlRenderer.dll
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\HtmlRenderer.WinForms.dll
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\LibImages.dll
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\LibMplayerCommon.dll
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ObjectListView.dll
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Windows7ToolStripRenderer.dll
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\WindowsFormsAero.dll
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csprojResolveAssemblyReference.cache
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Form1.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Properties.Resources.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.GenerateResource.Cache
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.AboutControl.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.ConfigControl.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Helpform.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.logfrm.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.MainControl.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.settings.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.UpdateControl.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VersionControl.resources
+H:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe.config
+H:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.exe
+H:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.pdb
+H:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe
+H:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.pdb
+H:\ViennaEncoder\ViennaEncoder\bin\Debug\HtmlRenderer.dll
+H:\ViennaEncoder\ViennaEncoder\bin\Debug\HtmlRenderer.WinForms.dll
+H:\ViennaEncoder\ViennaEncoder\bin\Debug\LibImages.dll
+H:\ViennaEncoder\ViennaEncoder\bin\Debug\LibMplayerCommon.dll
+H:\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+H:\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+H:\ViennaEncoder\ViennaEncoder\bin\Debug\ObjectListView.dll
+H:\ViennaEncoder\ViennaEncoder\bin\Debug\Windows7ToolStripRenderer.dll
+H:\ViennaEncoder\ViennaEncoder\bin\Debug\WindowsFormsAero.dll
+H:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csprojResolveAssemblyReference.cache
+H:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.AboutControl.resources
+H:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.ConfigControl.resources
+H:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Form1.resources
+H:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Helpform.resources
+H:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.logfrm.resources
+H:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.MainControl.resources
+H:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Properties.Resources.resources
+H:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.settings.resources
+H:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.UpdateControl.resources
+H:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VersionControl.resources
+H:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.GenerateResource.Cache
+D:\memcard\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe.config
+D:\memcard\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.exe
+D:\memcard\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.pdb
+D:\memcard\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe
+D:\memcard\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.pdb
+D:\memcard\ViennaEncoder\ViennaEncoder\bin\Debug\HtmlRenderer.dll
+D:\memcard\ViennaEncoder\ViennaEncoder\bin\Debug\HtmlRenderer.WinForms.dll
+D:\memcard\ViennaEncoder\ViennaEncoder\bin\Debug\LibImages.dll
+D:\memcard\ViennaEncoder\ViennaEncoder\bin\Debug\LibMplayerCommon.dll
+D:\memcard\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\memcard\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\memcard\ViennaEncoder\ViennaEncoder\bin\Debug\ObjectListView.dll
+D:\memcard\ViennaEncoder\ViennaEncoder\bin\Debug\Windows7ToolStripRenderer.dll
+D:\memcard\ViennaEncoder\ViennaEncoder\bin\Debug\WindowsFormsAero.dll
+D:\memcard\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csprojResolveAssemblyReference.cache
+D:\memcard\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.AboutControl.resources
+D:\memcard\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.ConfigControl.resources
+D:\memcard\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Form1.resources
+D:\memcard\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Helpform.resources
+D:\memcard\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.logfrm.resources
+D:\memcard\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.MainControl.resources
+D:\memcard\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Properties.Resources.resources
+D:\memcard\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.settings.resources
+D:\memcard\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.UpdateControl.resources
+D:\memcard\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VersionControl.resources
+D:\memcard\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.GenerateResource.Cache
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe.config
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.exe
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.pdb
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.pdb
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\HtmlRenderer.dll
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\HtmlRenderer.WinForms.dll
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\LibImages.dll
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\LibMplayerCommon.dll
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Windows7ToolStripRenderer.dll
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\WindowsFormsAero.dll
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csprojResolveAssemblyReference.cache
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.AboutControl.resources
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.ConfigControl.resources
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Form1.resources
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Helpform.resources
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.logfrm.resources
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.MainControl.resources
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Properties.Resources.resources
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.settings.resources
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.UpdateControl.resources
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VersionControl.resources
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.GenerateResource.Cache
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ShadowPanel.dll
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\System.Windows.Forms.Ribbon35.dll
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe.config
+I:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.exe
+I:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.pdb
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.pdb
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\AxInterop.WMPLib.dll
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\HtmlRenderer.dll
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\HtmlRenderer.WinForms.dll
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\Interop.WMPLib.dll
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\LibImages.dll
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\LibMplayerCommon.dll
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\ObjectListView.dll
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\ShadowPanel.dll
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\System.Windows.Forms.Ribbon35.dll
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\Windows7ToolStripRenderer.dll
+I:\ViennaEncoder\ViennaEncoder\bin\Debug\WindowsFormsAero.dll
+I:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csprojResolveAssemblyReference.cache
+I:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.AboutControl.resources
+I:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.ConfigControl.resources
+I:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Form1.resources
+I:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Helpform.resources
+I:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.logfrm.resources
+I:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.MainControl.resources
+I:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Properties.Resources.resources
+I:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.settings.resources
+I:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.UpdateControl.resources
+I:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VersionControl.resources
+I:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.GenerateResource.Cache
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\AxInterop.WMPLib.dll
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Interop.WMPLib.dll
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe.config
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.exe
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.pdb
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.pdb
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\AxInterop.WMPLib.dll
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\HtmlRenderer.dll
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\HtmlRenderer.WinForms.dll
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Interop.WMPLib.dll
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\LibImages.dll
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\LibMplayerCommon.dll
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ObjectListView.dll
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ShadowPanel.dll
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Windows7ToolStripRenderer.dll
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\WindowsFormsAero.dll
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csprojResolveAssemblyReference.cache
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.AboutControl.resources
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.ConfigControl.resources
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Form1.resources
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Helpform.resources
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.logfrm.resources
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.MainControl.resources
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Properties.Resources.resources
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.settings.resources
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.UpdateControl.resources
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VersionControl.resources
+C:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.GenerateResource.Cache
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.FilePropertiesForm.resources
+F:\Profil\Toothless\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.ResolveComReference.cache
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe.config
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.ResolveComReference.cache
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.exe
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.pdb
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.pdb
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Interop.WMPLib.dll
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ShadowPanel.dll
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Windows7ToolStripRenderer.dll
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\WindowsFormsAero.dll
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.AboutControl.resources
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.ConfigControl.resources
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.FilePropertiesForm.resources
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Form1.resources
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.logfrm.resources
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.MainControl.resources
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Properties.Resources.resources
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.settings.resources
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.UpdateControl.resources
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VersionControl.resources
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.GenerateResource.Cache
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csprojResolveAssemblyReference.cache
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.CustomPreset.resources
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.splash.resources
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\ViennaEncoder.exe.config
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.ResolveComReference.cache
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.exe
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.pdb
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\ViennaEncoder.exe
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\ViennaEncoder.pdb
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\Interop.WMPLib.dll
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\ShadowPanel.dll
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\Windows7ToolStripRenderer.dll
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\WindowsFormsAero.dll
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.AboutControl.resources
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.ConfigControl.resources
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.CustomPreset.resources
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.FilePropertiesForm.resources
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Form1.resources
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.logfrm.resources
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.MainControl.resources
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Properties.Resources.resources
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.settings.resources
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.splash.resources
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.UpdateControl.resources
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VersionControl.resources
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VideoPlayerForm.resources
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.GenerateResource.Cache
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\Vlc.DotNet.Core.dll
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\ViennaEncoder.exe.config
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\ViennaEncoder.exe
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\ViennaEncoder.pdb
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\Interop.WMPLib.dll
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\ShadowPanel.dll
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\Vlc.DotNet.Core.dll
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\Windows7ToolStripRenderer.dll
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\WindowsFormsAero.dll
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.ResolveComReference.cache
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.AboutControl.resources
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.ConfigControl.resources
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.CustomPreset.resources
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.FilePropertiesForm.resources
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Form1.resources
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.logfrm.resources
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.MainControl.resources
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Properties.Resources.resources
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.settings.resources
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.splash.resources
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.UpdateControl.resources
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VersionControl.resources
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VideoPlayerForm.resources
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.exe
+C:\Users\Acer\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.pdb
+D:\Users\Frozen\Documents\ViennaEncoder dotnet3.5\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csprojResolveAssemblyReference.cache
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Vlc.DotNet.Core.dll
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Vlc.DotNet.Core.Interops.dll
+D:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VideoPlayerForm.resources
+E:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe.config
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.ResolveComReference.cache
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.exe
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.pdb
+E:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe
+E:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.pdb
+E:\ViennaEncoder\ViennaEncoder\bin\Debug\AxInterop.WMPLib.dll
+E:\ViennaEncoder\ViennaEncoder\bin\Debug\Interop.WMPLib.dll
+E:\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\ViennaEncoder\ViennaEncoder\bin\Debug\ShadowPanel.dll
+E:\ViennaEncoder\ViennaEncoder\bin\Debug\System.Windows.Forms.Ribbon35.dll
+E:\ViennaEncoder\ViennaEncoder\bin\Debug\Vlc.DotNet.Core.dll
+E:\ViennaEncoder\ViennaEncoder\bin\Debug\Windows7ToolStripRenderer.dll
+E:\ViennaEncoder\ViennaEncoder\bin\Debug\WindowsFormsAero.dll
+E:\ViennaEncoder\ViennaEncoder\bin\Debug\Vlc.DotNet.Core.Interops.dll
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csprojResolveAssemblyReference.cache
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.AboutControl.resources
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.ConfigControl.resources
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.CustomPreset.resources
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.FilePropertiesForm.resources
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Form1.resources
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.logfrm.resources
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.MainControl.resources
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Properties.Resources.resources
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.settings.resources
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.splash.resources
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.UpdateControl.resources
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VersionControl.resources
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VideoPlayerForm.resources
+E:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.GenerateResource.Cache
+G:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe.config
+G:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe
+G:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.pdb
+G:\ViennaEncoder\ViennaEncoder\bin\Debug\AxInterop.WMPLib.dll
+G:\ViennaEncoder\ViennaEncoder\bin\Debug\Interop.WMPLib.dll
+G:\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+G:\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+G:\ViennaEncoder\ViennaEncoder\bin\Debug\ShadowPanel.dll
+G:\ViennaEncoder\ViennaEncoder\bin\Debug\System.Windows.Forms.Ribbon35.dll
+G:\ViennaEncoder\ViennaEncoder\bin\Debug\Vlc.DotNet.Core.dll
+G:\ViennaEncoder\ViennaEncoder\bin\Debug\Windows7ToolStripRenderer.dll
+G:\ViennaEncoder\ViennaEncoder\bin\Debug\WindowsFormsAero.dll
+G:\ViennaEncoder\ViennaEncoder\bin\Debug\Vlc.DotNet.Core.Interops.dll
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csprojResolveAssemblyReference.cache
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.ResolveComReference.cache
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.AboutControl.resources
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.ConfigControl.resources
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.CustomPreset.resources
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.FilePropertiesForm.resources
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Form1.resources
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.logfrm.resources
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.MainControl.resources
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Properties.Resources.resources
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.settings.resources
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.splash.resources
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.UpdateControl.resources
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VersionControl.resources
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VideoPlayerForm.resources
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.GenerateResource.Cache
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.exe
+G:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.pdb
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe.config
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.pdb
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Interop.WMPLib.dll
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\ShadowPanel.dll
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Vlc.DotNet.Core.dll
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Windows7ToolStripRenderer.dll
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\WindowsFormsAero.dll
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.ResolveComReference.cache
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.AboutControl.resources
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.ConfigControl.resources
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.CustomPreset.resources
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.FilePropertiesForm.resources
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Form1.resources
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.logfrm.resources
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.MainControl.resources
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Properties.Resources.resources
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.settings.resources
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.splash.resources
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.UpdateControl.resources
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VersionControl.resources
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VideoPlayerForm.resources
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.exe
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.pdb
+C:\Users\Acer\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csprojResolveAssemblyReference.cache
+F:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe.config
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.ResolveComReference.cache
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.exe
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.pdb
+F:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.exe
+F:\ViennaEncoder\ViennaEncoder\bin\Debug\ViennaEncoder.pdb
+F:\ViennaEncoder\ViennaEncoder\bin\Debug\AxInterop.WMPLib.dll
+F:\ViennaEncoder\ViennaEncoder\bin\Debug\Interop.WMPLib.dll
+F:\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.dll
+F:\ViennaEncoder\ViennaEncoder\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\ViennaEncoder\ViennaEncoder\bin\Debug\ShadowPanel.dll
+F:\ViennaEncoder\ViennaEncoder\bin\Debug\System.Windows.Forms.Ribbon35.dll
+F:\ViennaEncoder\ViennaEncoder\bin\Debug\Vlc.DotNet.Core.dll
+F:\ViennaEncoder\ViennaEncoder\bin\Debug\Windows7ToolStripRenderer.dll
+F:\ViennaEncoder\ViennaEncoder\bin\Debug\WindowsFormsAero.dll
+F:\ViennaEncoder\ViennaEncoder\bin\Debug\Vlc.DotNet.Core.Interops.dll
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.AboutControl.resources
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.ConfigControl.resources
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.CustomPreset.resources
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.FilePropertiesForm.resources
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Form1.resources
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.logfrm.resources
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.MainControl.resources
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.Properties.Resources.resources
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.settings.resources
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.splash.resources
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.UpdateControl.resources
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VersionControl.resources
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.VideoPlayerForm.resources
+F:\ViennaEncoder\ViennaEncoder\obj\x86\Debug\ViennaEncoder.csproj.GenerateResource.Cache

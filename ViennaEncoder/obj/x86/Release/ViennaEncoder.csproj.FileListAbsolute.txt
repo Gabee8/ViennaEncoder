@@ -1,0 +1,12 @@
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Release\ViennaEncoder.csprojResolveAssemblyReference.cache
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Release\ViennaEncoder.AboutControl.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Release\ViennaEncoder.ConfigControl.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Release\ViennaEncoder.Form1.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Release\ViennaEncoder.Helpform.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Release\ViennaEncoder.logfrm.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Release\ViennaEncoder.MainControl.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Release\ViennaEncoder.Properties.Resources.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Release\ViennaEncoder.settings.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Release\ViennaEncoder.UpdateControl.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Release\ViennaEncoder.VersionControl.resources
+C:\Users\Frozen\Documents\ViennaEncoder\ViennaEncoder\obj\x86\Release\ViennaEncoder.csproj.GenerateResource.Cache
