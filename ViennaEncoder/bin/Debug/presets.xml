@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presets>
+  <PresetList>
+    <PresetName value="Original">H.264 Avi video</PresetName>
+    <PresetIcon>3</PresetIcon>
+    <Vcodecs Value="h264 ">H.264 (AVC)</Vcodecs>
+    <Acodecs Value="mp3 ">MPEG audio layer 3</Acodecs>
+    <Container Value=".avi">AVI</Container>
+    <Resolution Value="">Eredeti Felbontás</Resolution>
+    <VBitrate>1800</VBitrate>
+    <ABitrate Value="3">150-195kb/s</ABitrate>
+    <Colorspace Value="422p">Nincs</Colorspace>
+    <FPS Value="disabled">disabled</FPS>
+    <AscpetRatio></AscpetRatio>
+    <ASample Value="44100">44100 Hz</ASample>
+    <AChannel Value="2">Sztereó</AChannel>
+    <Subtitle Value="">Be</Subtitle>
+    <VideoDisable>false</VideoDisable>
+    <CopyVCodecs>false</CopyVCodecs>
+    <CopyACodecs>false</CopyACodecs>
+    <OnlyAudio>false</OnlyAudio>
+    <DisableAudio>false</DisableAudio>
+    <IDv3>false</IDv3>
+    <CustomResolution>false</CustomResolution>
+    <Rotate />
+  </PresetList>
+  <PresetList>
+    <PresetName value="Original">H.264 Mkv (16:9)</PresetName>
+    <PresetIcon>2</PresetIcon>
+    <Vcodecs Value="libx264 ">Matroska file format</Vcodecs>
+    <Acodecs Value="ac3_fixed ">AC-3</Acodecs>
+    <Container Value=".mkv">MKV</Container>
+    <Resolution Value="">Eredeti Felbontás</Resolution>
+    <VBitrate>2000</VBitrate>
+    <ABitrate Value="192k ">192kb/s</ABitrate>
+    <Colorspace Value="422p">Nincs</Colorspace>
+    <FPS Value="disabled">disabled</FPS>
+    <AscpetRatio>-aspect 16:9 </AscpetRatio>
+    <ASample Value="44100">44100 Hz</ASample>
+    <AChannel Value="6">5.1 (Házimozi)</AChannel>
+    <Subtitle Value="">Be</Subtitle>
+    <VideoDisable>false</VideoDisable>
+    <CopyVCodecs>false</CopyVCodecs>
+    <CopyACodecs>false</CopyACodecs>
+    <OnlyAudio>false</OnlyAudio>
+    <DisableAudio>false</DisableAudio>
+    <IDv3>false</IDv3>
+    <CustomResolution>false</CustomResolution>
+    <Rotate />
+  </PresetList>
+  <PresetList>
+    <PresetName value="Original">Xvid</PresetName>
+    <PresetIcon>4</PresetIcon>
+    <Vcodecs Value="libxvid ">Xvid </Vcodecs>
+    <Acodecs Value="mp3 ">MPEG audio layer 3</Acodecs>
+    <Container Value=".avi">AVI</Container>
+    <Resolution Value="">Eredeti Felbontás</Resolution>
+    <VBitrate>1500</VBitrate>
+    <ABitrate Value="160k">160kb/s</ABitrate>
+    <Colorspace Value="422p">Nincs</Colorspace>
+    <FPS Value="disabled">disabled</FPS>
+    <AscpetRatio></AscpetRatio>
+    <ASample Value="44100">44100 Hz</ASample>
+    <AChannel Value="6">5.1 (Házimozi)</AChannel>
+    <Subtitle Value="">Be</Subtitle>
+    <VideoDisable>false</VideoDisable>
+    <CopyVCodecs>false</CopyVCodecs>
+    <CopyACodecs>false</CopyACodecs>
+    <OnlyAudio>false</OnlyAudio>
+    <DisableAudio>false</DisableAudio>
+    <IDv3>false</IDv3>
+    <CustomResolution>false</CustomResolution>
+    <Rotate />
+  </PresetList>
+  <PresetList>
+    <PresetName value="Original">H.265 Mkv video</PresetName>
+    <PresetIcon>9</PresetIcon>
+    <Vcodecs Value="hevc ">H.265 / HEVC</Vcodecs>
+    <Acodecs Value="libvo_aacenc ">AAC</Acodecs>
+    <Container Value=".mkv">MKV</Container>
+    <Resolution Value="">Eredeti Felbontás</Resolution>
+    <VBitrate>2500</VBitrate>
+    <ABitrate Value="320k">320kb/s</ABitrate>
+    <Colorspace Value="422p">Nincs</Colorspace>
+    <FPS Value="disabled">disabled</FPS>
+    <AscpetRatio></AscpetRatio>
+    <ASample Value="44100">44100 Hz</ASample>
+    <AChannel Value="6">5.1 (Házimozi)</AChannel>
+    <Subtitle Value="">Be</Subtitle>
+    <VideoDisable>false</VideoDisable>
+    <CopyVCodecs>false</CopyVCodecs>
+    <CopyACodecs>false</CopyACodecs>
+    <OnlyAudio>false</OnlyAudio>
+    <DisableAudio>false</DisableAudio>
+    <IDv3>false</IDv3>
+    <CustomResolution>false</CustomResolution>
+    <Rotate />
+  </PresetList>
+  <PresetList>
+    <PresetName value="Original">MP3 Audio</PresetName>
+    <PresetIcon>6</PresetIcon>
+    <Vcodecs Value="hevc ">H.265 / HEVC</Vcodecs>
+    <Acodecs Value="mp3 ">MPEG audio layer 3</Acodecs>
+    <Container Value=".mp3">MP3</Container>
+    <Resolution Value="">Eredeti Felbontás</Resolution>
+    <VBitrate>2500</VBitrate>
+    <ABitrate Value="192k ">192kb/s</ABitrate>
+    <Colorspace Value="422p">Nincs</Colorspace>
+    <FPS Value="disabled">disabled</FPS>
+    <AscpetRatio></AscpetRatio>
+    <ASample Value="44100">44100 Hz</ASample>
+    <AChannel Value="2">Sztereó</AChannel>
+    <Subtitle Value="-sn ">Ki</Subtitle>
+    <VideoDisable>true</VideoDisable>
+    <CopyVCodecs>false</CopyVCodecs>
+    <CopyACodecs>false</CopyACodecs>
+    <OnlyAudio>true</OnlyAudio>
+    <DisableAudio>false</DisableAudio>
+    <IDv3>true</IDv3>
+    <CustomResolution>false</CustomResolution>
+    <Rotate />
+  </PresetList>
+  <PresetList>
+    <PresetName value="Original">M4A Audio</PresetName>
+    <PresetIcon>5</PresetIcon>
+    <Vcodecs Value="libx264 ">Matroska file format</Vcodecs>
+    <Acodecs Value="alac ">Alac (M4A)</Acodecs>
+    <Container Value=".m4a">M4A</Container>
+    <Resolution Value="">Eredeti Felbontás</Resolution>
+    <VBitrate>2000</VBitrate>
+    <ABitrate Value="192k ">192kb/s</ABitrate>
+    <Colorspace Value="422p">Nincs</Colorspace>
+    <FPS Value="disabled">disabled</FPS>
+    <AscpetRatio></AscpetRatio>
+    <ASample Value="44100">44100 Hz</ASample>
+    <AChannel Value="2">Sztereó</AChannel>
+    <Subtitle Value="-sn ">Ki</Subtitle>
+    <VideoDisable>true</VideoDisable>
+    <CopyVCodecs>false</CopyVCodecs>
+    <CopyACodecs>false</CopyACodecs>
+    <OnlyAudio>true</OnlyAudio>
+    <DisableAudio>false</DisableAudio>
+    <IDv3>true</IDv3>
+    <CustomResolution>false</CustomResolution>
+    <Rotate />
+  </PresetList>
+  <PresetList>
+    <PresetName value="Original">Mpeg-2 video</PresetName>
+    <PresetIcon>8</PresetIcon>
+    <Vcodecs Value="mpeg2video ">MPEG-2 video</Vcodecs>
+    <Acodecs Value="mp3 ">MPEG audio layer 3</Acodecs>
+    <Container Value=".mpeg">MPEG2</Container>
+    <Resolution Value="">Eredeti Felbontás</Resolution>
+    <VBitrate>2000</VBitrate>
+    <ABitrate Value="3">150-195kb/s</ABitrate>
+    <Colorspace Value="422p">Nincs</Colorspace>
+    <FPS Value="disabled">disabled</FPS>
+    <AscpetRatio></AscpetRatio>
+    <ASample Value="44100">44100 Hz</ASample>
+    <AChannel Value="2">Sztereó</AChannel>
+    <Subtitle Value="-sn ">Ki</Subtitle>
+    <VideoDisable>false</VideoDisable>
+    <CopyVCodecs>false</CopyVCodecs>
+    <CopyACodecs>false</CopyACodecs>
+    <OnlyAudio>false</OnlyAudio>
+    <DisableAudio>false</DisableAudio>
+    <IDv3>false</IDv3>
+    <CustomResolution>false</CustomResolution>
+    <Rotate />
+  </PresetList>
+  <PresetList>
+    <PresetName value="Original">Mpeg-4 video</PresetName>
+    <PresetIcon>7</PresetIcon>
+    <Vcodecs Value="mpeg4 ">MPEG-4</Vcodecs>
+    <Acodecs Value="mp3 ">MPEG audio layer 3</Acodecs>
+    <Container Value=".mp4">MP4</Container>
+    <Resolution Value="">Eredeti Felbontás</Resolution>
+    <VBitrate>1800</VBitrate>
+    <ABitrate Value="3">150-195kb/s</ABitrate>
+    <Colorspace Value="422p">Nincs</Colorspace>
+    <FPS Value="disabled">disabled</FPS>
+    <AscpetRatio></AscpetRatio>
+    <ASample Value="44100">44100 Hz</ASample>
+    <AChannel Value="2">Sztereó</AChannel>
+    <Subtitle Value="-sn ">Ki</Subtitle>
+    <VideoDisable>false</VideoDisable>
+    <CopyVCodecs>false</CopyVCodecs>
+    <CopyACodecs>false</CopyACodecs>
+    <OnlyAudio>false</OnlyAudio>
+    <DisableAudio>false</DisableAudio>
+    <IDv3>false</IDv3>
+    <CustomResolution>false</CustomResolution>
+    <Rotate />
+  </PresetList>
+</Presets>

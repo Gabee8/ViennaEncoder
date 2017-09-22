@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FFMpegPresets>
+  <CustomSettings>
+    <Vcodecs Value="mpeg4 ">MPEG-4</Vcodecs>
+    <Acodecs Value="mp3 ">MPEG audio layer 3</Acodecs>
+    <Container Value=".mp4">MP4</Container>
+    <Resolution Value="">Eredeti Felbontás</Resolution>
+    <VBitrate>1800</VBitrate>
+    <ABitrate Value="3">150-195kb/s</ABitrate>
+    <Colorspace Value="422p">Nincs</Colorspace>
+    <FPS Value="disabled">disabled</FPS>
+    <AscpetRatio></AscpetRatio>
+    <ASample Value="44100">44100 Hz</ASample>
+    <AChannel Value="2">Sztereó</AChannel>
+    <Subtitle Value="">Be</Subtitle>
+    <VideoDisable>false</VideoDisable>
+    <CopyVCodecs>false</CopyVCodecs>
+    <CopyACodecs>false</CopyACodecs>
+    <OnlyAudio>false</OnlyAudio>
+    <DisableAudio>false</DisableAudio>
+    <IDv3>false</IDv3>
+    <CustomResolution>false</CustomResolution>
+    <Rotate />
+  </CustomSettings>
+</FFMpegPresets>

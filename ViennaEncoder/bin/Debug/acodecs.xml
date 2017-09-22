@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Codecs>
+  <CodecsList>
+    <CodecsName>MPEG audio layer 3</CodecsName>
+    <CodecsParam>mp3 </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>AC-3</CodecsName>
+    <CodecsParam>ac3_fixed </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>MPEG audio layer 2</CodecsName>
+    <CodecsParam>mp2 </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>AAC</CodecsName>
+    <CodecsParam>libvo_aacenc </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>3GPP AMR file format</CodecsName>
+    <CodecsParam>amr </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Microsoft WMA</CodecsName>
+    <CodecsParam>wmav2 </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Ogg</CodecsName>
+    <CodecsParam>libvorbis </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>True Audio</CodecsName>
+    <CodecsParam>tta </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>RealMedia format</CodecsName>
+    <CodecsParam>rm </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Sony OpenMG audio</CodecsName>
+    <CodecsParam>oma </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>raw FLAC</CodecsName>
+    <CodecsParam>flac </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Apple Core Audio Format</CodecsName>
+    <CodecsParam>caf </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Sony Wave64 format</CodecsName>
+    <CodecsParam>w64 </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Electronic Arts cdata</CodecsName>
+    <CodecsParam>ea_cdata </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Alac (M4A)</CodecsName>
+    <CodecsParam>alac </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>AAC (M4A)</CodecsName>
+    <CodecsParam>libvo_aacenc </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Real Audio</CodecsName>
+    <CodecsParam>real_144 </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>PCM 32-bit floating point big-endian</CodecsName>
+    <CodecsParam>pcm_f32be </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>PCM 32-bit floating point little-endian</CodecsName>
+    <CodecsParam>pcm_f32le </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>PCM signed 16-bit big-endian</CodecsName>
+    <CodecsParam>pcm_s16be </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>PCM unsigned 32-bit big-endian</CodecsName>
+    <CodecsParam>pcm_u32be </CodecsParam>
+  </CodecsList>
+</Codecs>

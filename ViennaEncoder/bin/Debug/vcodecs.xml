@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Codecs>
+  <CodecsList>
+    <CodecsName>MPEG-2 video</CodecsName>
+    <CodecsParam>mpeg2video </CodecsParam>
+    <CodecsExt Value=".mpg">MPG</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>H.263+ / H.263-1998 / H.263 version 2</CodecsName>
+    <CodecsParam>h263p </CodecsParam>
+    <CodecsExt Value=".avi">AVI</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Audio Video Standard</CodecsName>
+    <CodecsParam>avs </CodecsParam>
+    <CodecsExt Value=".avi">AVI</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>MPEG-4</CodecsName>
+    <CodecsParam>mpeg4 </CodecsParam>
+    <CodecsExt Value=".mp4">MP4</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>3GP2 format</CodecsName>
+    <CodecsParam>libx264 </CodecsParam>
+    <CodecsExt Value=".3gp">3GP</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>H.261</CodecsName>
+    <CodecsParam>h261 </CodecsParam>
+    <CodecsExt Value=".avi">AVI</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>H.263</CodecsName>
+    <CodecsParam>h263 </CodecsParam>
+    <CodecsExt Value=".avi">AVI</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>H.264 (AVC)</CodecsName>
+    <CodecsParam>h264 </CodecsParam>
+    <CodecsExt Value=".avi">AVI</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>H.265 / HEVC</CodecsName>
+    <CodecsParam>hevc </CodecsParam>
+    <CodecsExt Value=".avi">AVI</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Matroska file format</CodecsName>
+    <CodecsParam>libx264 </CodecsParam>
+    <CodecsExt Value=".mkv">MKV</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Xvid</CodecsName>
+    <CodecsParam>libxvid </CodecsParam>
+    <CodecsExt Value=".avi">AVI</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsList>
+    <CodecsName>DivX</CodecsName>
+    <CodecsParam>mpeg4 -vtag DIVX </CodecsParam>
+    <CodecsExt Value=".avi">AVI</CodecsExt>
+  </CodecsList>
+    <CodecsName>FFmpeg video codec #1</CodecsName>
+    <CodecsParam>ffv1 </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>RealVideo 2.0</CodecsName>
+    <CodecsParam>rv20 </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Cinepak</CodecsName>
+    <CodecsParam>cinepak </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Flash format(Adobe)</CodecsName>
+    <CodecsParam>flv1 </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Theora</CodecsName>
+    <CodecsParam>libtheora </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>YUV4MPEG pipe format</CodecsName>
+    <CodecsParam>yuv4mpegpipe </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>libvpx VP9</CodecsName>
+    <CodecsParam>libvpx-vp9 </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>MPEG-2 Transport Stream format</CodecsName>
+    <CodecsParam>mpeg2video -f mpegts </CodecsParam>
+    <CodecsExt Value=".ts">TS</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>MIME multipart JPEG format</CodecsName>
+    <CodecsParam>mpjpeg </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Windows Media Video 8</CodecsName>
+    <CodecsParam>wmv2 </CodecsParam>
+    <CodecsExt Value=".wmv">WMV</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>LCL (LossLess Codec Library) ZLIB</CodecsName>
+    <CodecsParam>zlib </CodecsParam>
+    <CodecsExt>zlib</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>DV (Digital Video)</CodecsName>
+    <CodecsParam>dvvideo </CodecsParam>
+    <CodecsExt Value=".dv">DV</CodecsExt>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>AMV Video</CodecsName>
+    <CodecsParam>amv </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Dirac</CodecsName>
+    <CodecsParam>libschroedinger </CodecsParam>
+  </CodecsList>
+  <CodecsList>
+    <CodecsName>Microsoft Video 1</CodecsName>
+    <CodecsParam>msvideo1 </CodecsParam>
+    <CodecsExt Value=".avi">AVI</CodecsExt>
+  </CodecsList>
+</Codecs>
